@@ -34,16 +34,19 @@
 **2. MARCO TEORICO**
 
 
+La onda senoidal es una forma de onda periódica que se caracteriza por su forma de onda sinusoidal y se expresa matemáticamente como una función sinusoidal de una variable independiente, generalmente el tiempo. La forma de onda sinusoidal es la representación gráfica de una función seno o coseno, y se puede describir en términos de varios parámetros clave:
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Frecuencia: La frecuencia de una onda senoidal es la cantidad de ciclos completos de la onda que se producen en un segundo y se mide en Hertz (Hz). A mayor frecuencia, se produce un mayor número de ciclos en un período de tiempo determinado.
 
+Período: El período de una onda senoidal es el tiempo que tarda una onda en completar un ciclo completo y se mide en segundos. El período es inversamente proporcional a la frecuencia.
 
+Amplitud: La amplitud de una onda senoidal es la máxima desviación de la forma de onda con respecto a su valor medio, y se mide en unidades de voltios (en el caso de señales eléctricas) o en cualquier otra unidad correspondiente al tipo de señal en cuestión. La amplitud se relaciona directamente con la cantidad de energía transportada por la onda.
 
+Fase: La fase de una onda senoidal es la medida del desplazamiento horizontal de la forma de onda con respecto a una forma de onda de referencia, y se mide en grados o radianes. La fase se utiliza para describir la relación temporal entre dos o más ondas senoidales que se superponen.
 
+La onda senoidal es una forma de onda común en la naturaleza y en la tecnología, y se utiliza en una amplia variedad de aplicaciones, como la transmisión de señales de audio y video, la generación de señales de reloj para circuitos digitales, y la síntesis de señales electromagnéticas para la comunicación inalámbrica.
 
-
-
-
+![image](https://user-images.githubusercontent.com/116772918/218926787-9f0d2778-cf14-4f2b-89ad-1d63c1c632b5.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -51,34 +54,9 @@
 
 * 3.1 MATERIALES DE LA PRACTICA
 
-![image](https://user-images.githubusercontent.com/116772918/201215190-89cd44b5-edd6-4d3a-90df-6818f95472ce.png)
+![image](https://user-images.githubusercontent.com/116772918/218926687-564b6b81-bd2a-4ffe-9fb1-bd1595dbfb38.png)
 
 * 3.2 PROCEDIMIENTO
-
-* 3.2.1 DIAGRMA EN TINKERCAD
-
-![image](https://user-images.githubusercontent.com/116772918/201216346-c1b8ec56-0ac9-422a-86fd-7c00cff980f8.png)
-
-// MEDIDAS DE RESISTENCIAS 
-
-![image](https://user-images.githubusercontent.com/116772918/201217657-672682f3-907e-4c6d-80b2-909a9fd2db84.png)
-
-// MEDIDAS DE VOLTAJE 
-
-![image](https://user-images.githubusercontent.com/116772918/201218230-41626c40-0b02-4547-b427-ca6ce35fbd77.png)
-
-![image](https://user-images.githubusercontent.com/116772918/201218265-f69df9f7-c5b5-4448-8d8f-7e11261b64ac.png)
-
-![image](https://user-images.githubusercontent.com/116772918/201218358-682b689e-c569-40f6-ae95-415f9dfe719d.png)
-
-
-// MEDIDAS DEL AMPERAJE 
-
-![image](https://user-images.githubusercontent.com/116772918/201401461-435da11e-43e4-4e3e-b503-62f94a8ff0ce.png)
-
-![image](https://user-images.githubusercontent.com/116772918/201218653-c5c6d515-3b90-4c78-a24b-80f33baf98aa.png)
-
-![image](https://user-images.githubusercontent.com/116772918/201218892-8140c610-234a-43a9-ac3c-5187a551315b.png)
 
 
 
@@ -88,60 +66,18 @@
 
 
 
-* 4.1 PRIMERA TABLA : Comaparacion de mediciones 
-
-![image](https://user-images.githubusercontent.com/116772918/201261255-353188b4-cf51-4be1-905e-d4047487ec80.png)
-
-
-// CALCULOS EXPLICADOS 
-
-
-![image](https://user-images.githubusercontent.com/116772918/201228154-996fab2c-97f4-41a0-a343-929305589bcd.png)
-
-![image](https://user-images.githubusercontent.com/116772918/201228190-18ab745f-f713-46fc-9df7-cf144cde9fbd.png)
-
-
-![image](https://user-images.githubusercontent.com/116772918/201231737-ed85ab22-4df5-4eb9-bec9-bbb64c0da0ea.png)
-
-![image](https://user-images.githubusercontent.com/116772918/201231786-69a05e7e-e8e4-42f1-99cf-e31a8d6825d1.png)
-
-
-* SEGUNDA TABLA: Verificacion de las trayectorias por medio de la Ley de Kirchhoff de Voltajes.
-
-
-![image](https://user-images.githubusercontent.com/116772918/201263093-a9a27430-612c-47cb-b6e4-6bd22d31cbba.png)
-
-
-// CALCULOS EXPLICADOS 
-
-![image](https://user-images.githubusercontent.com/116772918/201263232-933de152-be6a-444a-9840-533c4a86b59f.png)
-
-![image](https://user-images.githubusercontent.com/116772918/201263314-971a40a0-305d-4622-aace-5e25bc252cc4.png)
-
-![image](https://user-images.githubusercontent.com/116772918/201263363-9139caba-5f54-459c-96a7-825133fc55ea.png)
-
-
-
-TERCERA TABLA: Verificación por medio de la Ley de Kirchhoff de Corrientes.
-
-
-![image](https://user-images.githubusercontent.com/116772918/201264612-bf33bf52-783b-4087-b994-bd0a0c914eed.png)
-
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **5. VIDEO**
 
-https://youtu.be/AJcRXzZgemI
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **6. CONCLUSIONES**
 
-En conclución los procesos realizados de manera práctica con el uso de el sistema Tinkerkad para el desarrollo de circuitos electrónicos permitieron el análisis de las
-cargas que atraviezan por el circuito construido de manera exacta, yasea en su medida por trayectorias o por nodos tal y como lo designa la Ley de Kirchhoff de
-Voltajes y Corrientes, en base a esta práctica pudimos explicar dichas leyes de manera exacta.
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
