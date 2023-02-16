@@ -58,14 +58,93 @@ La onda senoidal es una forma de onda común en la naturaleza y en la tecnologí
 
 * 3.2 PROCEDIMIENTO
 
+Implemente el circuito que se presenta en la figura 7.1
+
+![image](https://user-images.githubusercontent.com/116772918/219426424-1d769f55-24be-4985-a36d-f57481b7d51c.png)
+
+* Circuito Armado
+
+![image](https://user-images.githubusercontent.com/116772918/219426543-46a5703c-fbc6-43e4-b0ba-9630923785b8.png)
+
+* Desarrollo
+
+Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
+
+Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
+
+![image](https://user-images.githubusercontent.com/116772918/219426743-1529c03f-555a-4ba5-ac41-aa7b75b969e2.png)
+
+![image](https://user-images.githubusercontent.com/116772918/219426829-05f5acdc-a2ba-4f3b-89eb-1afb6c01d800.png)
+
+
+
+
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
+* 4.1 ANÁLISIS DE RESULTADOS
+
+![image](https://user-images.githubusercontent.com/116772918/219426969-900e0a82-2424-4731-b8dd-6a342ca3f31b.png)
 
 
+* 4.2 RESPUESTA A INTERROGANTES
+
+*Responda las siguientes preguntas*
+
+4.2.1¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+
+Aproximadamente 2,28 div/cuadro.
+
+4.2.2¿En qué valor está posicionada la perilla VOLTS/DIV?
+
+Se encuentra posicionada en 3
+
+4.2.3¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+
+Aproximadamente 3,8 div/cuadro.
+
+4.2.4¿En qué valor está posicionada la perilla TIME/DIV?
+
+Se encuentra posicionada en 0,1 m
+
+4.2.5¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+
+Amplitud de voltaje: 6,83 (V)
+
+Periodo: 0.0004 (s)
+
+
+![image](https://user-images.githubusercontent.com/116772918/219427733-82725333-cf7f-4fca-817a-a3bbfd02d8df.png)
+
+
+4.2.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+
+f: 2500 (Hz)
+
+![image](https://user-images.githubusercontent.com/116772918/219427857-b2898e3f-1bca-4ea2-bc01-5115595218eb.png)
+
+ω: 15707,963 (rad/s)
+
+![image](https://user-images.githubusercontent.com/116772918/219427952-bd3dcd45-6647-4be3-b42a-6bc739b0c7d1.png)
+
+4.2.7 Con el multímetro digital mida el voltaje de salida en RL:
+
+* Corriente
+
+![image](https://user-images.githubusercontent.com/116772918/219428135-7b2cd85d-8ffb-435f-a3da-09a7c15f9425.png)
+
+* Voltaje
+
+![image](https://user-images.githubusercontent.com/116772918/219428247-ddb914f1-3ea9-4363-90e8-0ee79fa1a586.png)
+
+4.2.8 Compare el voltaje medido en el punto 4.2.5 y el obtenido en el punto 4.2.6
+
+¿Coinciden? ¿Por qué?
+
+Podemos determinar que los valores de voltaje no coinciden ya que cuando medimos el voltaje en osciloscopio este tiende a medir valores instantaneos en un tiempo determinado que este caso seria el valor pico maximo que este pude alcanzar y cuando medimos con un multimetro lo que se mide en este caso es el voltaje RMS que es el voltaje efica, el valor que obtenga puede producira un evecto de disipación o calntamiento.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -78,7 +157,9 @@ La onda senoidal es una forma de onda común en la naturaleza y en la tecnologí
 **6. CONCLUSIONES**
 
 
-
+* Las fuentes de corriente alterna varían en magnitud a lo largo del tiempo describiendo ondas con voltaje pico, pico-pico o rms.
+* El valor del voltaje mostrado en el osciloscopio vaaria de la del multímetro por un factor de error cuadrático medio llamado RMS (Root Mean Square).
+* Un osciloscopio puede mostrar diferentes tipos de ondas dependiendo de la fuente que este conectado y de la frecuencia a la que se muevan los valores de voltaje
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
