@@ -150,7 +150,7 @@ Podemos determinar que los valores de voltaje no coinciden ya que cuando medimos
 
 **5. VIDEO**
 
-
+https://youtu.be/aSL3ES1hMRk
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
